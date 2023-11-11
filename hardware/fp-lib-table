@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "rpiuhat")(type "KiCad")(uri "/home/christoph/Documents/GitHub/max3421e-rpi-uhat/libraries/rpiuhat/rpiuhat.pretty")(options "")(descr ""))
+)
